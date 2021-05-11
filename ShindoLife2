@@ -519,12 +519,6 @@ Discord:addButton("Copy Discord Link", function()
     setclipboard("https://discord.gg/CCcawandV8")
 end)
 
-local Discord = page5:addSection("Ucuz Premium Vb.")
-
-Discord:addButton("Copy Link", function()
-    setclipboard("https://prehesap.com")
-end)
-
 local Discord = page5:addSection("Edit")
 
 Discord:addButton("zEternal Army Kurucusu zSropzy", function()
