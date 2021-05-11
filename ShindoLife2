@@ -509,13 +509,13 @@ end)
     
 local Discord = page5:addSection("BloxFruit")
 
-Discord:addButton("Copy Discosrd Link", function()
+Discord:addButton("Copy Discord Link", function()
     setclipboard("https://discord.gg/Z8r6qdzFWa")
 end)
 
 local Discord = page5:addSection("Ro Ghoul")
 
-Discord:addButton("Copy Discosrd Link", function()
+Discord:addButton("Copy Discord Link", function()
     setclipboard("https://discord.gg/CCcawandV8")
 end)
 
