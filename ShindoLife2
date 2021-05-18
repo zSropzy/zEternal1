@@ -504,21 +504,9 @@ local page5 = venyx:addPage("Discord", 5012544693)
 local Discord = page5:addSection("zEternal Shindo Life")
 
 Discord:addButton("Copy Discord Link", function()
-    setclipboard("https://discord.gg/kS9mrChF4m")
+    setclipboard("https://discord.gg/GqJnFKQNsr")
 end)
     
-local Discord = page5:addSection("BloxFruit")
-
-Discord:addButton("Copy Discord Link", function()
-    setclipboard("https://discord.gg/Z8r6qdzFWa")
-end)
-
-local Discord = page5:addSection("Ro Ghoul")
-
-Discord:addButton("Copy Discord Link", function()
-    setclipboard("https://discord.gg/CCcawandV8")
-end)
-
 local Discord = page5:addSection("Edit")
 
 Discord:addButton("zEternal Army Kurucusu zSropzy#4972", function()
